@@ -62,7 +62,7 @@ export default function Login() {
         {/* Footer */}
         <p className="text-center text-[13px] text-[#44546F] mt-6">
           Ainda não tens conta?{" "}
-          <Link href="/register" className="text-[#0052CC] no-underline font-medium">
+          <Link href="/signup" className="text-[#0052CC] no-underline font-medium">
             Regista-te
           </Link>
         </p>
